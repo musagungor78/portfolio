@@ -16,12 +16,13 @@ export const languages = [
         users: "Kullanıcılar",
         awards: "Başarılar",
         years: "Tecrübe (Yıl)",
-        aboutMe: "Elektrik ve Elektronik Mühendisliği son sınıf öğrencisiyim ve gömülü sistemler, dijital sinyal işleme ve güç elektroniği gibi alanlara ilgi duyuyorum. Mikrodenetleyiciler ve sensörlerle çalışarak hem teorik hem de pratik becerilerimi geliştirdim. "+
-        "Çevresel izleme sistemleri, ses işleme algoritmaları ve güç elektroniği projeleri üzerinde çalıştım. Örneğin, bir AC-DC dönüştürücü tasarlayarak teorik hesaplamalar, MATLAB simülasyonları ve fiziksel devre tasarımını bir araya getirdim. "+
-        "Ayrıca, Raspberry Pi ve ESP32 gibi cihazlarla veri toplama, analiz ve görselleştirme çözümleri geliştirdim. MATLAB, Python ve C++ kullanarak mühendislik problemlerine yenilikçi çözümler üretmeye odaklanıyorum.",
+        aboutMe: "Elektrik ve Elektronik Mühendisliği son sınıf öğrencisiyim ve gömülü sistemler, dijital sinyal işleme ve güç elektroniği gibi alanlara ilgi duyuyorum. Mikrodenetleyiciler ve sensörlerle çalışarak hem teorik hem de pratik becerilerimi geliştirdim. " +
+            "Çevresel izleme sistemleri, ses işleme algoritmaları ve güç elektroniği projeleri üzerinde çalıştım. Örneğin, bir AC-DC dönüştürücü tasarlayarak teorik hesaplamalar, MATLAB simülasyonları ve fiziksel devre tasarımını bir araya getirdim. " +
+            "Ayrıca, Raspberry Pi ve ESP32 gibi cihazlarla veri toplama, analiz ve görselleştirme çözümleri geliştirdim. MATLAB, Python ve C++ kullanarak mühendislik problemlerine yenilikçi çözümler üretmeye odaklanıyorum.",
         skills: "Yetenekler",
         education: "Eğitim",
         certifications: "Sertifikalar",
+        programmerLanguage: "Programlama Dilleri",
         noneCertificate: "Sertifika bulunamadı !",
         university: "Üniversitesi",
         myProjects: "Projelerim",
@@ -76,15 +77,16 @@ export const languages = [
         users: "Users",
         awards: "Awards",
         years: "Experience (Years)",
-        aboutMe: "I am a senior student in Electrical and Electronics Engineering with a keen interest in embedded systems,"+
-        "digital signal processing, and power electronics. I have developed both theoretical and practical skills by working "+
-        "with microcontrollers and sensors. I have undertaken projects in environmental monitoring systems, audio processing algorithms, "+
-        "and power electronics. For instance, I designed an AC-DC converter, combining theoretical calculations, MATLAB simulations, "+
-        "and physical circuit design. Additionally, I have developed data collection, analysis, and visualization solutions using devices"+
-        " like Raspberry Pi and ESP32. My focus is on providing innovative solutions to engineering problems using MATLAB, Python, and C++.",
+        aboutMe: "I am a senior student in Electrical and Electronics Engineering with a keen interest in embedded systems," +
+            "digital signal processing, and power electronics. I have developed both theoretical and practical skills by working " +
+            "with microcontrollers and sensors. I have undertaken projects in environmental monitoring systems, audio processing algorithms, " +
+            "and power electronics. For instance, I designed an AC-DC converter, combining theoretical calculations, MATLAB simulations, " +
+            "and physical circuit design. Additionally, I have developed data collection, analysis, and visualization solutions using devices" +
+            " like Raspberry Pi and ESP32. My focus is on providing innovative solutions to engineering problems using MATLAB, Python, and C++.",
         skills: "Skills",
         education: "Education",
         certifications: "Certifications",
+        programmerLanguage: "Programming Language",
         noneCertificate: "Not found certificate !",
         university: "University",
         myProjects: "My Projects",

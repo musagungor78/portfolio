@@ -15,7 +15,9 @@ const About = () => {
     education,
     university,
     noneCertificate,
+    programmerLanguage,
   } = language;
+  console.log("LANGUAGE :", language);
   const handleChange = (id: string) => {
     startTransition(() => {
       setTab(id);
@@ -46,7 +48,7 @@ const About = () => {
       ),
     },
     {
-      title: "Programlama Dilleri",
+      title: programmerLanguage,
       id: "programmer-language",
       content: (
         <ul className="list-disc pl-2">
@@ -70,7 +72,7 @@ const About = () => {
               active={tab === "skills"}
             >
               {skills}
-            </TabButton>            
+            </TabButton>
             <TabButton
               selectTab={() => handleChange("programmer-language")}
               active={tab === "programmer-language"}

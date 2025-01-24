@@ -91,7 +91,7 @@ const Hero = () => {
               {hire}
             </Link>
             <a
-              href={"/osman_dayi_fe.pdf"}
+              href={"/musa-cv.pdf"}
               download
               className="px-1 inline-block py-1 w-full md:w-fit 
               rounded-full bg-gradient-to-br from-mycolor-200 
