@@ -77,7 +77,7 @@ const About = () => {
               selectTab={() => handleChange("programmer-language")}
               active={tab === "programmer-language"}
             >
-              Programlama Dilleri
+              {programmerLanguage}
             </TabButton>
             <TabButton
               selectTab={() => handleChange("education")}
